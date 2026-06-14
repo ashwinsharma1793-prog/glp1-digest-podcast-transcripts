@@ -1,5 +1,18 @@
 # GLP-1 Digest Podcast Transcripts
 
+## Ep. 7: Dr. Adam Auton
+
+- Transcript: [ep-7-adam-auton-transcript.md](ep-7-adam-auton-transcript.md)
+- ChatGPT analysis link: [summarise the most insightful genetics, investor, and founder takeaways](https://chatgpt.com/?q=Summarise+the+most+insightful+points+from+this+GLP-1+Digest+episode+with+Dr.+Adam+Auton.+Focus+on+what+this+means+from+two+perspectives%3A+%281%29+an+investor+analysing+obesity-drug+manufacturers%2C+genomics%2C+diagnostics%2C+DTC+telehealth%2C+and+precision-medicine+companies%3B+and+%282%29+a+founder%2Foperator+building+in+obesity+care%2C+genetic+testing%2C+or+personalised+prescribing.+Explain+the+commercial+implications+of+polygenic+risk+scores%2C+GLP1R+and+GIPR+variants%2C+side-effect+prediction%2C+weight+regain%2C+patient+segmentation%2C+and+pharma+differentiation.+Pull+out+the+second-+and+third-order+implications%2C+not+just+a+generic+episode+summary.%0A%0ATranscript%3A+https%3A%2F%2Fraw.githubusercontent.com%2Fashwinsharma1793-prog%2Fglp1-digest-podcast-transcripts%2Fmain%2Fep-7-adam-auton-transcript.md)
+
+Suggested prompt:
+
+```text
+Summarise the most insightful points from this GLP-1 Digest episode with Dr. Adam Auton. Focus on what this means from two perspectives: (1) an investor analysing obesity-drug manufacturers, genomics, diagnostics, DTC telehealth, and precision-medicine companies; and (2) a founder/operator building in obesity care, genetic testing, or personalised prescribing. Explain the commercial implications of polygenic risk scores, GLP1R and GIPR variants, side-effect prediction, weight regain, patient segmentation, and pharma differentiation. Pull out the second- and third-order implications, not just a generic episode summary.
+
+Transcript: https://raw.githubusercontent.com/ashwinsharma1793-prog/glp1-digest-podcast-transcripts/main/ep-7-adam-auton-transcript.md
+```
+
 ## Ep. 6: Tim Gutwald
 
 - Transcript: [ep-6-tim-gutwald-transcript.md](ep-6-tim-gutwald-transcript.md)
