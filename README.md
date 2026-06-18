@@ -1,5 +1,19 @@
 # GLP-1 Digest Podcast Transcripts
 
+## Paul Sacher: AI and GLP-1 Care
+
+- Transcript: [paul-sacher-ai-glp1-transcript.md](paul-sacher-ai-glp1-transcript.md)
+- Raw transcript URL: https://raw.githubusercontent.com/ashwinsharma1793-prog/glp1-digest-podcast-transcripts/main/paul-sacher-ai-glp1-transcript.md
+- ChatGPT analysis link: [summarise the most insightful AI, obesity-care, investor, and founder takeaways](https://chatgpt.com/?q=Summarise%20the%20most%20insightful%20points%20from%20this%20GLP-1%20Digest%20episode%20with%20Paul%20Sacher%20on%20AI%20and%20GLP-1%20care.%20Focus%20on%20what%20this%20means%20from%20two%20perspectives%3A%20%281%29%20an%20investor%20analysing%20DTC%20telehealth%2C%20AI%20health%20coaching%2C%20obesity%20care%20platforms%2C%20retention%2C%20and%20real-world%20data%20moats%3B%20and%20%282%29%20a%20founder%2Foperator%20building%20in%20GLP-1%20care%2C%20patient%20support%2C%20or%20AI-enabled%20healthcare%20operations.%20Pull%20out%20the%20second-%20and%20third-order%20implications%2C%20not%20just%20a%20generic%20episode%20summary.%0A%0ATranscript%3A%20https%3A%2F%2Fraw.githubusercontent.com%2Fashwinsharma1793-prog%2Fglp1-digest-podcast-transcripts%2Fmain%2Fpaul-sacher-ai-glp1-transcript.md)
+
+Suggested prompt:
+
+```text
+Summarise the most insightful points from this GLP-1 Digest episode with Paul Sacher on AI and GLP-1 care. Focus on what this means from two perspectives: (1) an investor analysing DTC telehealth, AI health coaching, obesity care platforms, retention, and real-world data moats; and (2) a founder/operator building in GLP-1 care, patient support, or AI-enabled healthcare operations. Pull out the second- and third-order implications, not just a generic episode summary.
+
+Transcript: https://raw.githubusercontent.com/ashwinsharma1793-prog/glp1-digest-podcast-transcripts/main/paul-sacher-ai-glp1-transcript.md
+```
+
 ## Ep. 7: Dr. Adam Auton
 
 - Transcript: [ep-7-adam-auton-transcript.md](ep-7-adam-auton-transcript.md)
