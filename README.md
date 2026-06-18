@@ -1,5 +1,19 @@
 # GLP-1 Digest Podcast Transcripts
 
+## Aja Beckett: Shotzi and the Post-Prescription GLP-1 Patient Journey
+
+- Transcript: [aja-beckett-shotzi-transcript.md](aja-beckett-shotzi-transcript.md)
+- Raw transcript URL: https://raw.githubusercontent.com/ashwinsharma1793-prog/glp1-digest-podcast-transcripts/main/aja-beckett-shotzi-transcript.md
+- ChatGPT analysis link: [summarise the most insightful consumer-health, GLP-1, investor, and founder takeaways](https://chatgpt.com/?q=Summarise%20the%20most%20insightful%20points%20from%20this%20GLP-1%20Digest%20episode%20with%20Aja%20Beckett%20on%20Shotzi%20and%20the%20post-prescription%20GLP-1%20patient%20journey.%20Focus%20on%20what%20this%20means%20from%20two%20perspectives%3A%20%281%29%20an%20investor%20analysing%20consumer%20health%20apps%2C%20DTC%20telehealth%2C%20GLP-1%20adherence%2C%20patient%20support%2C%20and%20subscription%20health%20businesses%3B%20and%20%282%29%20a%20founder%2Foperator%20building%20in%20obesity%20care%2C%20patient%20engagement%2C%20or%20GLP-1%20companion%20products.%20Pull%20out%20the%20second-%20and%20third-order%20implications%2C%20not%20just%20a%20generic%20episode%20summary.%0A%0ATranscript%3A%20https%3A%2F%2Fraw.githubusercontent.com%2Fashwinsharma1793-prog%2Fglp1-digest-podcast-transcripts%2Fmain%2Faja-beckett-shotzi-transcript.md)
+
+Suggested prompt:
+
+```text
+Summarise the most insightful points from this GLP-1 Digest episode with Aja Beckett on Shotzi and the post-prescription GLP-1 patient journey. Focus on what this means from two perspectives: (1) an investor analysing consumer health apps, DTC telehealth, GLP-1 adherence, patient support, and subscription health businesses; and (2) a founder/operator building in obesity care, patient engagement, or GLP-1 companion products. Pull out the second- and third-order implications, not just a generic episode summary.
+
+Transcript: https://raw.githubusercontent.com/ashwinsharma1793-prog/glp1-digest-podcast-transcripts/main/aja-beckett-shotzi-transcript.md
+```
+
 ## Paul Sacher: AI and GLP-1 Care
 
 - Transcript: [paul-sacher-ai-glp1-transcript.md](paul-sacher-ai-glp1-transcript.md)
