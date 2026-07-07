@@ -1,39 +1,38 @@
 ---
-title: "AI and GLP-1 Care, with Paul Sacher"
+title: "AI Is Becoming the Retention Layer for GLP-1 Care, with Paul Sacher"
 guest: "Paul Sacher"
 show: "GLP-1 Digest"
 status: "lightly edited transcript"
 ---
 
-# AI and GLP-1 Care, with Paul Sacher
+# AI Is Becoming the Retention Layer for GLP-1 Care, with Paul Sacher
 
 **Transcript status:** Lightly edited for readability and obvious transcription errors. Timestamps are approximate.
 
 ## Use This Transcript With ChatGPT
 
-Open this ChatGPT link to analyse the transcript from an investor and founder/operator perspective:
+Open this ChatGPT link to ask questions about the transcript from an investor and founder/operator perspective:
 
-[Summarise the most insightful AI, obesity-care, investor, and founder takeaways](https://chatgpt.com/?q=Summarise%20the%20most%20insightful%20points%20from%20this%20GLP-1%20Digest%20episode%20with%20Paul%20Sacher%20on%20AI%20and%20GLP-1%20care.%20Focus%20on%20what%20this%20means%20from%20two%20perspectives%3A%20%281%29%20an%20investor%20analysing%20DTC%20telehealth%2C%20AI%20health%20coaching%2C%20obesity%20care%20platforms%2C%20retention%2C%20and%20real-world%20data%20moats%3B%20and%20%282%29%20a%20founder%2Foperator%20building%20in%20GLP-1%20care%2C%20patient%20support%2C%20or%20AI-enabled%20healthcare%20operations.%20Pull%20out%20the%20second-%20and%20third-order%20implications%2C%20not%20just%20a%20generic%20episode%20summary.%0A%0ATranscript%3A%20https%3A%2F%2Fraw.githubusercontent.com%2Fashwinsharma1793-prog%2Fglp1-digest-podcast-transcripts%2Fmain%2Fpaul-sacher-ai-glp1-transcript.md)
+[Ask ChatGPT for the investor and operator takeaways](https://chatgpt.com/?q=Summarise%20the%20most%20insightful%20points%20from%20this%20GLP-1%20Digest%20episode%20with%20Paul%20Sacher.%20Focus%20on%20what%20it%20means%20for%20two%20readers%3A%20%281%29%20investors%20analysing%20DTC%20telehealth%2C%20AI%20health%20coaching%2C%20obesity%20care%20platforms%2C%20retention%2C%20LTV%2C%20CAC%20payback%2C%20adherence%2C%20and%20real-world%20data%20moats%3B%20and%20%282%29%20founders%2Foperators%20building%20in%20GLP-1%20care%2C%20patient%20support%2C%20maintenance%20programs%2C%20and%20AI-enabled%20healthcare%20operations.%20Pull%20out%20the%20second-%20and%20third-order%20implications%2C%20not%20a%20generic%20summary.%20Where%20relevant%2C%20explain%20how%20AI%20could%20change%20churn%2C%20gross%20margin%2C%20lifetime%20value%2C%20clinical%20safety%2C%20and%20maintenance%20economics.%0A%0ATranscript%3A%20https%3A%2F%2Fraw.githubusercontent.com%2Fashwinsharma1793-prog%2Fglp1-digest-podcast-transcripts%2Fmain%2Fpaul-sacher-ai-glp1-transcript.md)
 
 Suggested prompt:
 
 ```text
-Summarise the most insightful points from this GLP-1 Digest episode with Paul Sacher on AI and GLP-1 care. Focus on what this means from two perspectives: (1) an investor analysing DTC telehealth, AI health coaching, obesity care platforms, retention, and real-world data moats; and (2) a founder/operator building in GLP-1 care, patient support, or AI-enabled healthcare operations. Pull out the second- and third-order implications, not just a generic episode summary.
+Summarise the most insightful points from this GLP-1 Digest episode with Paul Sacher. Focus on what it means for two readers: (1) investors analysing DTC telehealth, AI health coaching, obesity care platforms, retention, LTV, CAC payback, adherence, and real-world data moats; and (2) founders/operators building in GLP-1 care, patient support, maintenance programs, and AI-enabled healthcare operations. Pull out the second- and third-order implications, not a generic summary. Where relevant, explain how AI could change churn, gross margin, lifetime value, clinical safety, and maintenance economics.
 
 Transcript: https://raw.githubusercontent.com/ashwinsharma1793-prog/glp1-digest-podcast-transcripts/main/paul-sacher-ai-glp1-transcript.md
 ```
 
 ## Chapters
 
-- `00:00:00` How patient-facing AI creates value beyond chatbots
-- `00:04:58` Why 24/7 support matters in the GLP-1 patient journey
-- `00:07:19` Onboarding, side effects, plateaus, and disengagement signals
-- `00:19:17` Predicting churn and intervening before the patient leaves
-- `00:25:18` Data, reinforcement learning, and personalisation at scale
-- `00:37:46` Safety, clinical governance, and what AI should not do
-- `00:50:58` AI health coaching, behaviour change, and maintenance support
-- `01:03:26` The contrarian case for real-world support after digital saturation
-- `01:07:09` Looking 20-30 years ahead at AI's effect on health care
+- `00:00:00` Why AI in GLP-1 care is not just a chatbot
+- `00:04:58` 24/7 support in the early patient journey
+- `00:07:19` Onboarding, side-effect anxiety, and early churn
+- `00:12:18` Why app engagement can mislead operators
+- `00:15:39` Switchers, maintenance, and N-of-one support
+- `00:20:00` Why AI support needs systems, not demos
+- `00:37:46` Behavioural data, pharma, insurers, and adherence
+- `00:48:35` Safety, regulation, and the future support model
 
 ## Transcript
 
@@ -43,17 +42,17 @@ How do you want to be referred? Do you want to be referred as Dr. Sacher or Paul
 
 ### 00:00:09 - Paul
 
-I think because we know each other so I'll just call me Yeah.
+I think because we know each other, just call me Paul.
 
 ### 00:00:12 - Ashwin
 
-Okay, okay, cool. Sweet, right. Okay, let me get into it. right. So Paul, let's get straight into it. So when most people hear about AIs in GLP-1 Direct-to-Consumer platforms, right, they think about a chat bot or support automation. In your view, where do you think the real value is being created with AI?
+Okay, okay, cool. Sweet, right. Okay, let me get into it. So Paul, let's get straight into it. When most people hear about AI in GLP-1 direct-to-consumer platforms, they think about a chatbot or support automation. In your view, where do you think the real value is being created with AI?
 
 ### 00:00:42 - Paul
 
 Okay, well, first of all, great to be here. Great to see you. And thanks for inviting me. Let me start with maybe, you know, with where patient-facing conversational AI systems are, things like AI health coaches or, you know, AI health assistants. You know, these things are particularly useful when it comes to providing 24-7 patient support. You know, as I'm sure you'll know, Ash, many patient questions.
 
-don't actually need a clinician or a health coach. What patients need is just like an immediate, accurate, and sort of supportive response. generally the human alternative is kind of typically asynchronous. Often it can be a day or two before a patient gets a response from a human, whether it's a health coach or customer support agent. And in those really important early first weeks,
+don't actually need a clinician or a health coach. What patients need is an immediate, accurate, and supportive response. Generally the human alternative is typically asynchronous. Often it can be a day or two before a patient gets a response from a human, whether it's a health coach or customer support agent. And in those really important early first weeks,
 
 you know, even that kind of like one to two day delay can be enough to really sort of start to weaken the patient provider relationship and actually, you know, from the patients we've spoken to can immediately cause like dissatisfaction quite early on. So the other thing I think, which I didn't fully appreciate until we started evaluating real patient, you know, facing conversational AI systems at scale is that a lot of patients actually prefer AI for certain categories of questions.
 
@@ -89,19 +88,19 @@ Mmm.
 
 ### 00:04:58 - Ashwin
 
-I can imagine, right? Like you're talking about patients talking to chat bots on the interface, possibly through an app, most likely through an app, right? Do you find that there are certain times of the day that people interact with the chat bot more compared to others? Like I was reading, like even my own interaction, like sometimes people have this health anxiety, especially at night. Do you find that that interaction is also taking place on the app with these GLP-1 DTC platforms as well?
+I can imagine, right? Like you're talking about patients talking to chatbots on the interface, possibly through an app, most likely through an app, right? Do you find that there are certain times of the day that people interact with the chatbot more compared to others? Like I was reading, like even my own interaction, like sometimes people have this health anxiety, especially at night. Do you find that that interaction is also taking place on the app with these GLP-1 DTC platforms as well?
 
 ### 00:05:27 - Paul
 
 Absolutely, and I think that's one of the benefits is they're available 24-7. There very few humans I know that are happy to work 24-7 or shift work. It just doesn't really happen. And often the things that patients struggle with are the things that emerge out of the blue, things that they weren't expecting, craving just before you're going to bed. You haven't eaten that much all day, you haven't had much hunger, but suddenly before you go to bed, you get this real craving for something.
 
-And so either you can just sort of like, you know, go for it and indulge in that craving, or you can sort of reach out for support and having an AI that AI you can share that worth, he will provide you with some like practical examples of what you could do instead of the thing you're craving, have this instead, why don't you try that. And then it's a feedback loop because you can also, patients can also sort of feedback how it went. And you know, it's kind of like a continuous feedback cycle. So I think it's super helpful.
+And so either you can just sort of go for it and indulge in that craving, or you can reach out for support. Having an AI that you can share that with, that will provide you with practical examples of what you could do instead of the thing you're craving - have this instead, why don't you try that - creates a feedback loop because patients can also feed back how it went. It's a continuous feedback cycle. So I think it's super helpful.
 
-you know, as I said, like we've never had this before. We've never had the ability to receive 24 seven support. And in many cases, you know, tailored to our context, the way we're eating, the medication we're on, our personal circumstances. So it's pretty powerful stuff when it's done properly and safely. And I think we'll probably get onto some of that a little bit later.
+you know, as I said, like we've never had this before. We've never had the ability to receive 24/7 support. And in many cases, you know, tailored to our context, the way we're eating, the medication we're on, our personal circumstances. So it's pretty powerful stuff when it's done properly and safely. And I think we'll probably get onto some of that a little bit later.
 
 ### 00:06:45 - Ashwin
 
-Absolutely. I think just from a patient perspective, where do you think these AI chatbots really help with those sticking points in a patient's journey? If you were to identify like three of the biggest moments you've identified as, I guess, friction points that lead to turn, where would you say they are on the patient journey and how do you think AI chatbots can like really help those patients to stay on?
+Absolutely. I think just from a patient perspective, where do you think these AI chatbots really help with those sticking points in a patient's journey? If you were to identify three of the biggest moments you've identified as friction points that lead to churn, where would you say they are on the patient journey and how do you think AI chatbots can help those patients stay on?
 
 instead of just losing them forever basically.
 
@@ -141,7 +140,7 @@ Yeah.
 
 ### 00:11:43 - Ashwin
 
-And so I really want to hear your opinions on app fatigue. like, I wrote an essay about consumer health apps, which got some strong pushback, which is fair enough, but how do you engage someone to consistently use your app over the longterm? I think that's the real unlock, right? But how do you do that? I still haven't seen anyone really in this space conquer it.
+And so I really want to hear your opinions on app fatigue. I wrote an essay about consumer health apps, which got some strong pushback, which is fair enough, but how do you engage someone to consistently use your app over the long term? I think that's the real unlock, right? But how do you do that? I still haven't seen anyone really in this space conquer it.
 
 What would you suggest, I know that's a big question, but what are some of the things that you think are important to engage someone with your health platform?
 
@@ -189,53 +188,41 @@ and just being as competitive as possible, pricing, but that wears off pretty qu
 
 ### 00:18:14 - Ashwin
 
-Exactly. And I think it just makes business sense, right? Like if you retain patients better on your platform, your LTV is better, your ratio is better. And so it also makes a strong commercial sense to provide this type of service. And it almost feels like we need to get to a place where we start segmenting patients, like these net new users versus switchers versus those in the maintenance phase. So we can like really, as you've said, their journey towards their personal needs because
+Exactly. And I think it just makes business sense, right? If you retain patients better on your platform, your LTV is better and your ratio is better. So it also makes strong commercial sense to provide this type of service. It almost feels like we need to get to a place where we start segmenting patients, like these net new users versus switchers versus those in the maintenance phase, so we can really tailor their journey towards their personal needs because
 
-If I join a platform and I'm a JLP one user, I have like six months of experience. I potentially don't want to do another onboarding, right? So I think that would really help get these patients that are further along in the journey back and locked into your ecosystem. Paul, you mentioned like something like really important, like you've obviously had extensive experience in this space and you've worked with many providers. What do you think most players get wrong?
+If I join a platform and I'm a GLP-1 user, I have like six months of experience. I potentially don't want to do another onboarding, right? So I think that would really help get these patients that are further along in the journey back and locked into your ecosystem. Paul, you mentioned something really important: you've obviously had extensive experience in this space and you've worked with many providers. What do you think most players get wrong?
 
 when they try to think about bolting on AI onto their obesity pathway.
 
 ### 00:19:17 - Paul
 
-I'm just gonna take us to the water.
-
-### 00:19:18 - Ashwin
-
-Yeah, go for it. You're fantastic, by the way. Super interesting because like it's 20 minutes and it's just like, you know, this is like really good because this is like natural. So you're doing fantastically.
-
-### 00:19:30 - Paul
-
-Good, thank you.
-
-### 00:19:36 - Paul
-
-Okay, Joanna, can you ask the question again?
+Can you ask the question again?
 
 ### 00:19:39 - Ashwin
 
-Sure. you obviously Paul, so you obviously have extensive experience in this space, right? You've worked with many providers over a long period of time. What do you think most players are getting wrong when they try to bolt on an AI chatbot service or an AI system onto their obesity platforms?
+Sure. Paul, you obviously have extensive experience in this space, right? You've worked with many providers over a long period of time. What do you think most players are getting wrong when they try to bolt on an AI chatbot service or an AI system onto their obesity platforms?
 
 ### 00:20:00 - Paul
 
-Yeah, so I think a lot really depends on the type of AI we're talking about because there are quite a few different applications of AI. There's things like workflow automation, which is kind more under the hood stuff that sort of frees up time and adds efficiencies and contributes to productivity, but patients don't really see that. There's also AI scribes, which are all the rage and are now pretty much embedded in most healthcare.
+Yeah, so I think a lot really depends on the type of AI we're talking about because there are quite a few different applications of AI. There's things like workflow automation, which is kind of more under the hood stuff that sort of frees up time and adds efficiencies and contributes to productivity, but patients don't really see that. There's also AI scribes, which are all the rage and are now pretty much embedded in most healthcare.
 
-There's predictive AI, you let's not forget the power of traditional machine learning and just more deterministic methods. There's AI-driven analytics on the clinical product, customer service side. And then there's AI that really helps teams that are supporting patients have access to all the kind of relevant data. So summarizing tools and making sure that nothing gets lost between the cracks. And there's also AI that directly
+There's predictive AI, and let's not forget the power of traditional machine learning and just more deterministic methods. There's AI-driven analytics on the clinical product, customer service side. And then there's AI that really helps teams that are supporting patients have access to all the kind of relevant data. So summarizing tools and making sure that nothing gets lost between the cracks. And there's also AI that directly
 
-is patient facing. you mentioned chatbots, things like AI assistants or agents. There's AI that's personalizing communications, whether it's emails or in-app notifications. There's a wide range of kind of patient facing AI support that actually helps patients like guiding them through their journey. And then also, I guess the really sort of topical one is let's not forget vibe coding, right?
+is patient-facing. You mentioned chatbots, things like AI assistants or agents. There's AI that's personalizing communications, whether it's emails or in-app notifications. There's a wide range of patient-facing AI support that actually helps guide patients through their journey. And then also, I guess the really sort of topical one is let's not forget vibe coding, right?
 
 which has been used in probably most digital health product teams, I would say, to rapidly, you know, prototype and iterate AI driven features. And it's allowing people like myself and clinicians, know, people that don't have traditional kind of computer science or engineering backgrounds, product managers, you know, the whole team basically to explore ideas quickly without sort of heavy, heavy sort of upfront specifications or like requirements, et cetera. So each of those,
 
-Each of those has its own sort of risks and, you know, different ways where it can kind of go wrong. So if we think about the patient facing side, which is where, you know, I see most of the teams having challenges. The biggest issue is that teams, think, the complexity of designing, building, testing, integrating, deploying, and monitoring the AI properly. Cause you kind of need to do all of that in order to be able to safely have a
+Each of those has its own risks and different ways where it can go wrong. So if we think about the patient-facing side, which is where I see most of the teams having challenges, the biggest issue is that teams underestimate the complexity of designing, building, testing, integrating, deploying, and monitoring the AI properly. You need to do all of that in order to be able to safely have a
 
 ### 00:22:25 - Paul
 
-patient facing AI system. And I think there's still a lot of teams out there that think you can basically take a frontier model. You can like put some guard rails around it. You know, can wrap some guard rails around it and you know, that's enough. That's, you know, that's safe enough. And also I think a lot of teams think that's all you need for behavior change. They're like tick, you know, we've ticked the box. We've got a patient facing AI, you know, coach or assistant and you know, that's it. It's doing our behavior change for us.
+patient-facing AI system. And I think there's still a lot of teams out there that think you can basically take a frontier model, put some guardrails around it, and that's enough. That's safe enough. And also I think a lot of teams think that's all you need for behavior change. They're like tick, we've ticked the box. We've got a patient-facing AI coach or assistant and that's it. It's doing our behavior change for us.
 
 But I also hear a lot of providers talking about reducing their human support teams. I know quite a number of teams, human teams, are quite worried about this at the moment. And these providers are under lot of commercial pressure. There's huge amounts of competition. It's highly competitive, as you know. And big teams of human health coaches are expensive. So while it might seem tempting to cut teams and augment with an AI agent,
 
 without even in many cases doing enough evaluation to understand to what degree can the AI actually replace what the valuable service that these teams are actually delivering. So I think there's a very big difference between, as we were saying, just generating engagement. people are talking to the chatbot, therefore it's great, it's working. Versus, is it actually generating real behavioral outcomes for our patients? I think it's also
 
-really important for providers to understand how their patients feel about being supported by AI versus a human and understanding where each of those kind of works well. And also importantly, where they don't. And how do you appropriately, or how do you figure out, depending on the support question, whether it should be a human or an AI, and how do you triage those conversations, making sure that you're giving patients access to the best.
+really important for providers to understand how their patients feel about being supported by AI versus a human and understanding where each of those works well. And also importantly, where they don't. And how do you appropriately, or how do you figure out, depending on the support question, whether it should be a human or an AI, and how do you triage those conversations, making sure that you're giving patients access to the best
 
 ### 00:24:03 - Ashwin
 
@@ -243,7 +230,7 @@ Hmm.
 
 ### 00:24:21 - Paul
 
-source of support, assuming there is more than one source for what they need at any sort of moment in time. So having done that work sort of a number of times now, we've seen really how wrong it can go. But fortunately, we've caught it. In most cases, we've evolved before it's led to harm. And that's why, you know, over time, our focus has become more and more on, you know, how we test and evaluate these AI systems across the full life cycle. And I think just another point is that a lot of teams
+source of support, assuming there is more than one source for what they need at any moment in time. So having done that work a number of times now, we've seen how wrong it can go. But fortunately, we've caught it. In most cases, we've evolved before it's led to harm. And that's why, over time, our focus has become more and more on how we test and evaluate these AI systems across the full life cycle. And I think just another point is that a lot of teams
 
 get this wrong because they treat AI as a feature rather than a system. And what I mean by that is they try and pack too many things into kind of one model. So either they try and get one model to do everything, coach the patient, track the food, give dietary advice, physical activity advice, set goals, problem solve. Everything is kind of contained within one model. And the other side of that is we see
 
@@ -253,13 +240,9 @@ Mm-hmm.
 
 ### 00:25:18 - Paul
 
-some teams, you know, having individual models for all those things. But then if you do it all together, you start to see errors, inaccuracies, model drift. You know, the model really like deviates from, from its kind of intended purpose and its system instructions. It doesn't pull the correct information from its rag. It forgets the context. You know, there's a whole range of things that happen. So yeah, I think the more you're asking how to do the lower the quality of support that it ends up providing is.
+some teams having individual models for all those things. But then if you do it all together, you start to see errors, inaccuracies, model drift. The model deviates from its intended purpose and its system instructions. It doesn't pull the correct information from its RAG. It forgets the context. There's a whole range of things that happen. So yeah, I think the more you're asking one model to do, the lower the quality of support that it ends up providing is.
 
-And then if you try and build them all separately, often what you see is that no single part of the system has the full context. So patients learn of getting mixed messages and things repeated, ask the same question and different or conflicting sort of advice or recommendations, et cetera. So neither of those experiences I've say is particularly good and especially if it doesn't feel joined up and it's not getting things right. So we also,
-
-### 00:25:55 - Ashwin
-
-you
+And then if you try and build them all separately, often what you see is that no single part of the system has the full context. So patients end up getting mixed messages and things repeated, ask the same question and get different or conflicting advice or recommendations, et cetera. So neither of those experiences, I'd say, is particularly good, especially if it doesn't feel joined up and it's not getting things right. So we also,
 
 ### 00:26:16 - Paul
 
@@ -287,7 +270,7 @@ eventually like tail off or do think that will always be a risk when you scale A
 
 ### 00:28:18 - Paul
 
-Yeah, I mean, think we are, we, we're asking improvements in things like hallucinations as models evolve. But I think as they evolve, we also see risks that weren't previously picked up. So sometimes one thing gets better and another aspect gets worse. Often these models are being updated in the background. And so if you are using a wraparound model, one of the frontier models, you know, you can see behavior of the model change overnight. And even if it's something that
+Yeah, I mean, I think we're seeing improvements in things like hallucinations as models evolve. But I think as they evolve, we also see risks that weren't previously picked up. So sometimes one thing gets better and another aspect gets worse. Often these models are being updated in the background. And so if you are using a wrapper around one of the frontier models, you can see behavior of the model change overnight. And even if it's something that
 
 know, was an error on the model side and it's kind of resolved. If that's errors been, you know, live and you've had a thousand patients interacting and they've all got some, you know, poor responses or potentially unsafe or inaccurate, then that's, you know, that's a massive problem. So I think it is improving, but the nature of LLMs is they're probabilistic, they're inference-based. They will never ever get anything 100 % right. It's just not how they design.
 
@@ -307,7 +290,7 @@ Yeah.
 
 ### 00:30:15 - Paul
 
-When it does get it wrong, we're able to kind of pick that up and respond quickly, just as you would with any customer support kind of inbound, you know, worrying sort of message. The other thing is, it's really important to monitor what the patients are saying as well. I think we forget about that. We're so focused on the behavior of the AI that we actually forget that there real humans at the end of the line having conversations with these AIs. These humans, as I said earlier,
+when it does get it wrong, we're able to kind of pick that up and respond quickly, just as you would with any customer support kind of inbound, worrying message. The other thing is, it's really important to monitor what the patients are saying as well. I think we forget about that. We're so focused on the behavior of the AI that we actually forget that there are real humans at the end of the line having conversations with these AIs. These humans, as I said earlier,
 
 ### 00:30:26 - Ashwin
 
@@ -327,13 +310,13 @@ Yeah.
 
 ### 00:31:10 - Paul
 
-Yeah, we're building a platform that we've built a pre-deployment sort of testing platform called PromptSafe, which is great for the simulations, but we're not building. All we keep getting asked for is real-time monitoring, both on the AI side, as well as the patient side and not relying on LLMs to judge other LLMs because then that's just, you know, things are always going to slip through the cracks if you've got one LLM monitoring another one. So we are using more sort of deterministic methods based on.
+Yeah, we've built a pre-deployment testing platform called PromptSafe, which is great for the simulations, but we're now building what we keep getting asked for: real-time monitoring, both on the AI side and the patient side, and not relying on LLMs to judge other LLMs because then things are always going to slip through the cracks if you've got one LLM monitoring another one. So we are using more deterministic methods based on
 
 things like knowledge graphs created by subject matter experts, like clinicians and clinical psychologists. So we're actually kind of comparing two bodies of evidence created by experts versus relying on LLMs, which are just trained on, you know, a lot of accurate information, but also a lot of inaccurate information as well.
 
 ### 00:31:59 - Ashwin
 
-a question that's just popped up and I guess is like a quick, a key question for my audience and for me as well is like, we talk about behavior change, right? Behavior change is fundamentally a very difficult thing to do with a human. Let's say you have a human in the loop. Do you think that AI in the loop or using AI can shift and modify behavior change? And have you seen that at scale?
+A question that's just popped up, and I guess it's a key question for my audience and for me as well, is we talk about behavior change, right? Behavior change is fundamentally a very difficult thing to do with a human. Let's say you have a human in the loop. Do you think that AI in the loop or using AI can shift and modify behavior change? And have you seen that at scale?
 
 ### 00:32:29 - Paul
 
@@ -393,17 +376,17 @@ Yeah.
 
 ### 00:40:05 - Paul
 
-And I think any company that's not thinking about this and working on this on the behavioral side is kind of probably going to lose a race at some point and probably, you know, in the not too distant future based on what I know some companies are already doing in this space.
+And I think any company that's not thinking about this and working on this on the behavioral side is probably going to lose a race at some point, and probably in the not too distant future, based on what I know some companies are already doing in this space.
 
 ### 00:40:20 - Ashwin
 
-It's really interesting, right? Like if I think about right now, we only have two medications on the market, right? We go via Manjaro injectables. In the not too distant future, you're have pills, you're gonna have monthly dosing. The complexity of what a patient can choose is gonna increase substantially. How they switch over from different medications is gonna increase substantially. And I feel like that support.
+It's really interesting, right? If I think about right now, we only have two main medications on the market: Wegovy and Mounjaro injectables. In the not too distant future, you're going to have pills and monthly dosing. The complexity of what a patient can choose is going to increase substantially. How they switch over from different medications is going to increase substantially. And I feel like that support
 
-is really where it's gonna come into play when you get this increased medical complexity, which requires a lot more handholding, a lot more support, a lot more delivery of expectation management as well, because many patients, from what I've seen, from what they've like, the social media slop that they're being consuming, is like, you're gonna lose weight 10 kilos in like a month or two months and not that expectation setting.
+is really where it's going to come into play when you get this increased medical complexity, which requires a lot more handholding, a lot more support, and a lot more expectation management. Many patients, from what I've seen and from what they're consuming on social media, are hearing: you're going to lose 10 kilos in a month or two months. That expectation setting matters.
 
-along with this like medical complexity that's gonna come very soon. I think that is where the support and the behavioral mechanics really set itself apart. By the way, I'm just gonna say question five again, just because that was like a shit question. The way I framed that. So I'm gonna say, so if I'm a pharma executive listening to this right now, what should I believe about AI that can realistically be achieved for patient support?
+Along with this medical complexity that's coming very soon, I think that is where the support and the behavioral mechanics really set themselves apart. So if I'm a pharma executive listening to this right now, what should I believe about AI that can realistically be achieved for patient support
 
-over the next two or three years. You've already answered that so we can move on. Next question, question six. So do you think digital BST platforms are generating one of the most commercially valuable behavioral datasets? And if so, why do you think that's the most valuable?
+over the next two or three years? You've already answered that so we can move on. Do you think digital obesity-care platforms are generating one of the most commercially valuable behavioral datasets? And if so, why do you think that's the most valuable?
 
 ### 00:42:09 - Paul
 
@@ -465,7 +448,7 @@ So in the UK, my understanding is that the line isn't about what you call it on 
 
 doesn't make it wellness, especially if the intended purpose is crossing over into kind of medical or clinical territory. And so what we often see is that a product starts out, you know, genuinely as a wellness tool, and then over time it drifts into kind of the medical device territory sort of over time. And the reason it sort of drifts is, you know, from what I've seen is usually the drifts driven by product teams responding to what patients are actually asking for.
 
-So what we see is the number one thing that patients ask an AI health coach about is side effects, especially in the early stages. So giving personalized side effect advice, advising a patient based on their individual medical history or data, all of that is crossing into medical device territory. And so this is where it generally gets hard, you know, I think for companies on one hand, patients are asking for something really useful and something that would really take
+So what we see is the number one thing that patients ask an AI health coach about is side effects, especially in the early stages. So giving personalized side-effect advice, advising a patient based on their individual medical history or data, all of that is crossing into medical-device territory. And so this is where it generally gets hard. For companies, on one hand, patients are asking for something really useful and something that would really take
 
 ### 00:50:28 - Ashwin
 
@@ -473,7 +456,7 @@ Yeah.
 
 ### 00:50:29 - Paul
 
-you know, the pressure of human teams, clinicians. But on the other, there's this regulatory line that a lot of companies don't fully understand. And it's not always obvious where that line actually sits. And I've been in a lot of meetings, you know, having long debates because it's not black or white about whether a specific AI capability would or wouldn't count as a medical device. And, know, it's a tricky conversation and there's always like, you know, two sides to the coin, but
+the pressure off human teams and clinicians. But on the other, there's this regulatory line that a lot of companies don't fully understand. And it's not always obvious where that line actually sits. I've been in a lot of meetings having long debates because it's not black or white about whether a specific AI capability would or wouldn't count as a medical device. It's a tricky conversation and there's always two sides to the coin, but
 
 ### 00:50:41 - Ashwin
 
@@ -485,9 +468,9 @@ Yeah.
 
 ### 00:50:58 - Paul
 
-The moment an AI is having a conversation about trading a dose or tapering it down or it's triaging or it's advising on side effects, any of that, it's already functioning in a clinical capacity. So you can slap a disclaimer on it, but disclaimer doesn't change the fact, you know, doesn't change what the system is actually doing. And from what I can see, both MHRA and FDA are getting more sophisticated about this, partly because they've had a couple
+The moment an AI is having a conversation about titrating a dose or tapering it down, or it's triaging or advising on side effects, it's already functioning in a clinical capacity. So you can slap a disclaimer on it, but a disclaimer doesn't change what the system is actually doing. And from what I can see, both MHRA and FDA are getting more sophisticated about this, partly because they've had a couple
 
-of kind of, they've had a lot more exposure to AI products over the last couple of years. And so, yeah, I think the wellness labor is going to be a lot less useful over the next 12 to 18 months as a result of that. And another piece that regulators are pushing on is post-market surveillance. So this is for companies that have gone the medical device route. And there's new regulations that came out last year. And it basically means that
+of kind of, they've had a lot more exposure to AI products over the last couple of years. And so, yeah, I think the wellness label is going to be a lot less useful over the next 12 to 18 months as a result of that. And another piece that regulators are pushing on is post-market surveillance. So this is for companies that have gone the medical device route. And there's new regulations that came out last year. And it basically means that
 
 ### 00:51:45 - Ashwin
 
@@ -495,7 +478,7 @@ Yeah.
 
 ### 00:51:55 - Paul
 
-If you are a manufacturer of a medical device and by manufacturer, mean the company placing the AI on the market. So not open AI, the actual provider. you now have a specific legal obligation to monitor your product in use, maintain a surveillance plan and report any incidents to the MHRA. And that's currently law. So yeah, I think, I think it's really.
+If you are a manufacturer of a medical device, and by manufacturer I mean the company placing the AI on the market - so not OpenAI, the actual provider - you now have a specific legal obligation to monitor your product in use, maintain a surveillance plan, and report any incidents to the MHRA. And that's currently law. So yeah, I think it's really
 
 tricky for companies, especially smaller companies, to kind of figure this out for themselves. But I think any company that has sort of a wellness, patient-facing sort of AI wellness, AI system, or using AI for wellness purposes needs to keep a close eye on this because if you get caught out, it could potentially be quite, you know, be difficult for company to sort of handle something like that. A lot of implications.
 
@@ -509,7 +492,7 @@ Yeah, we've thought a lot about this. Like strictly by the book, I think if you 
 
 being confident that your AI is not going to go off script and start kind of, you know, doing what it does best, trying to be helpful. and, you know, answer a question, especially if someone keeps asking and asking and pushing and pushing. That's really where the testing I spoke about earlier, the simulations we actually design, we call them adversarial personas. These are like synthetic patients designed to be that one patient that's actually going to persist long enough to get your AI to actually cross that medical device line.
 
-So it's about having the system set up and having those guardrails in place. But then it's also making sure that even if you have all of that, that actually in reality, it's not crossing the line. So it's kind of both sides of the coin. But I think it's, yeah, I mean, it's frustrating because patients want it. We know like if it can be done safely and well, there'll be really real value add great for patients, great for clinical teams, but you the regulations are the regulations.
+So it's about having the system set up and having those guardrails in place. But then it's also making sure that even if you have all of that, in reality, it's not crossing the line. So it's kind of both sides of the coin. But I think it's frustrating because patients want it. We know if it can be done safely and well, there'll be real value added for patients and clinical teams, but the regulations are the regulations.
 
 ### 00:54:33 - Ashwin
 
@@ -518,10 +501,6 @@ Yeah.
 ### 00:54:36 - Paul
 
 And they're there to protect, ultimately to protect patients. I think, don't get me wrong, I think we definitely need regulations. There are some places in the world, we have some clients in other countries and it does feel a little bit like, it feels exciting, but also a bit like the Wild West. They are able to do things that we wouldn't even consider in the UK, but I think patients are safer and better off in the UK, I would say.
-
-### 00:54:40 - Ashwin
-
-At most, they're called.
 
 ### 00:54:57 - Ashwin
 
@@ -533,9 +512,9 @@ On that, like I think, so there's so much chatter around AI risk, right? Like, a
 
 ### 00:55:38 - Paul
 
-Yeah, I think like you, I was working in a US medtech company where ChatGPD came out. The team pivoted, the whole team of 60, we all pivoted. built the, as far as we know, the first patient facing conversational AI system. It was made available to patients in 80 countries and 15 languages. We did that all within like a year after ChatGPD was released.
+Yeah, I think like you, I was working in a US medtech company where ChatGPT came out. The team pivoted, the whole team of 60, we all pivoted. We built the, as far as we know, first patient-facing conversational AI system. It was made available to patients in 80 countries and 15 languages. We did that all within like a year after ChatGPT was released.
 
-We were super excited, you know, finally we could have something in our app. The support was there 24 seven, but my team was responsible for the monitoring and we were literally reading every single conversation that was coming in. And if it wasn't in English, you know, it was being translated. And we very quickly saw that you cannot rely on these systems to be clinically safe. You can't have that as an assumption that out of the box, even with the godras, they are going to.
+We were super excited, you know, finally we could have something in our app. The support was there 24/7, but my team was responsible for the monitoring and we were literally reading every single conversation that was coming in. And if it wasn't in English, it was being translated. And we very quickly saw that you cannot rely on these systems to be clinically safe. You can't have that as an assumption that out of the box, even with the guardrails, they are going to
 
 stick to the script and be able to support the wide range of kind of patient needs and queries and issues that come up relating to, it was a medical device at the time, but it was also used for patients on GLP-1s relating to all the potential clinical and kind of behavioral risks and safety concerns that can happen across all those. So we actually ended up building a framework because there was no way of evaluating health coaches, nothing in the literature. So we actually.
 
@@ -565,7 +544,7 @@ you know, all the experience and knowledge that they have. If we can design an i
 
 uh, therapists engaging a health coach, all of these things costs, you generally have some costs associated with them. And I'm not saying that AI doesn't have a cost, but you know, you're using ChatGPT, you paying what's it like 20 pounds or $20 a month. I'm not, know, and that's obviously not designed to be an AI health coach, but there, you know, lot of the frontier model companies are now releasing the health versions, ChatGPT health is not available in the UK and I haven't used them myself, but I think.
 
-And I know there are other companies working on AI health coaches, Thrive AI, for example, in the US. It's won't be long before we have systems out there that are going to be able to provide comparable support. So I see that as a huge benefit. It's going to be lower cost, available 24 seven in your pocket when you need it. And I think a lot of people are actually already starting to use AI in that sense, you know, having ChatGPT on their phone, using it for like,
+And I know there are other companies working on AI health coaches, Thrive AI, for example, in the US. It won't be long before we have systems out there that are going to be able to provide comparable support. So I see that as a huge benefit. It's going to be lower cost, available 24/7 in your pocket when you need it. And I think a lot of people are actually already starting to use AI in that sense, you know, having ChatGPT on their phone, using it for like,
 
 ### 01:01:56 - Paul
 
@@ -591,7 +570,7 @@ I don't, it's highly valuable.
 
 ### 01:03:26 - Ashwin
 
-Yeah. So Paul, if you had to be contrarian, what is the one thing you believe about AI and obesity care that many founders or investors would probably disagree with you? Over.
+Yeah. So Paul, if you had to be contrarian, what is the one thing you believe about AI and obesity care that many founders or investors would probably disagree with you over?
 
 ### 01:03:42 - Paul
 
@@ -631,7 +610,7 @@ Wow, what a question. Well, I'll give you an answer that might surprise you beca
 
 I'm not sure if you're aware, but there are a lot of voices that are worried about the impact of AI in the world. And I know you focus more on like the opportunity side as I think lots of us are, but there are people like Tristan Harris at the Center for Humane Technology, who's raised genuine alarms about what AI is doing to our attention, our relationships, you the way we understand the world around us. And I do think those are serious issues and I think we should take them seriously as I've said.
 
-But I also think that AI done well, will hopefully help millions of people live better lives. And that's really the underlying reason why I got into this work. So I don't actually know how it plays out in reality and I don't think anyone does. So if I could look ahead and find art, I would, out of curiosity, but also because I do worry that things may not turn out as positively as I hope.
+But I also think that AI done well will hopefully help millions of people live better lives. And that's really the underlying reason why I got into this work. So I don't actually know how it plays out in reality and I don't think anyone does. So if I could look ahead and find out, I would, out of curiosity, but also because I do worry that things may not turn out as positively as I hope.
 
 I'd really like to know whether the work we're doing now ends up making a positive difference to many patients and does good in the world. yeah, hopefully when I got there in my future travel machine, I'd find that it did. I'll have to wait and see. Probably won't be around though, unfortunately.
 
@@ -654,4 +633,3 @@ Yeah, thank you for inviting me, Ash. Thanks, bye.
 ### 01:09:32 - Ashwin
 
 Thank you.
-
