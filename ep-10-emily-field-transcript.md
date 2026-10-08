@@ -8,7 +8,7 @@
 
 **Transcript status:** Lightly edited for readability and transcription errors. Speaker order and substantive conversation are retained. Timestamps refer to the downloaded final episode and are approximate to the second. The audio was checked using a fresh automated transcription pass; this is not a fully human-reviewed verbatim transcript.
 
-Forecasts, trial descriptions and company comments reflect the conversation at the time of recording, rather than a current-status update. The price wording at 12:22 has a clearly marked editorial correction below.
+Forecasts, trial descriptions and company comments reflect the conversation at the time of recording, rather than a current-status update.
 
 ## Analyse with ChatGPT
 
@@ -125,7 +125,7 @@ Emily, let's imagine now it's 2031 and generic semaglutide has come into the Uni
 
 ### 00:12:01 — Emily Field
 
-That's a really good question. I think we're all trying to watch what's taking place in India at the moment, because in India a lot of generics to semaglutide launched, I believe, in either late March or early April. The prices were very, very low, and they were able to launch vials. I think one of them is at like $14 for a dose.[^price]
+That's a really good question. I think we're all trying to watch what's taking place in India at the moment, because in India a lot of generics to semaglutide launched, I believe, in either late March or early April. The prices were very, very low, and they were able to launch vials. I think one of them is at like $14 for a dose.
 
 Lilly, at least thus far—and we don't get good prescription data. In the US, even if you're doing cash pay, we have different data providers where we can get a sense of what's going on. The data for international and cash pay we are not able to get, so it's very difficult to see what's going on.
 
@@ -342,5 +342,3 @@ Yeah, it would be great. Thank you so much.
 ### 00:34:47 — Ashwin Sharma
 
 If you found this useful, please subscribe to GLP-1 Digest, the newsletter. It's where I cover the GLP-1 market for founders, operators and investors. Stay tuned: I've got more expert conversations like this coming very soon. Thanks for listening.
-
-[^price]: **Editorial correction from the host:** Emily says “$14 for a dose” in the recording. The host has clarified that the intended price reference is **$14 a pen**. The spoken wording is retained above; a pen and a dose are not interchangeable units.

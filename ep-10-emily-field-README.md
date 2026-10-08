@@ -8,7 +8,7 @@ Emily Field, head of US biopharmaceuticals equity research at Barclays, joins As
 - [Open the raw Markdown transcript](https://raw.githubusercontent.com/ashwinsharma1793-prog/glp1-digest-podcast-transcripts/main/ep-10-emily-field-transcript.md)
 - [GLP-1 Digest newsletter](https://www.glp1digest.com/)
 
-The 35-minute transcript includes speaker labels, timestamps and a clearly identified correction to the price unit used in the conversation. Company comments and forecasts reflect the recording, not an updated investment view.
+The 35-minute transcript includes speaker labels and timestamps. Company comments and forecasts reflect the recording, not an updated investment view.
 
 ## Suggested ChatGPT prompt
 
